@@ -1,0 +1,18 @@
+GEM
+  specs:
+    icalendar (2.3.0)
+    thor (0.19.1)
+    thread_safe (0.3.5)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  icalendar
+  thor
+  tzinfo
+
+BUNDLED WITH
+   1.11.2
